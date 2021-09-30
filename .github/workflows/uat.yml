@@ -3,7 +3,7 @@ name: Continuous Deployment on PR
 on:
 	pull_request:
     branches:
-      - master
+      - pract
 
 jobs:
   deploy:
